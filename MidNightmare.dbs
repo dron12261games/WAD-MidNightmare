@@ -150,7 +150,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\1_UNLIMITED_POWER_1\\Doom_Things\\DOOM2.WAD";
+				location = "D:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -160,7 +160,7 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "D:\\1_UNLIMITED_POWER_1\\Doom_Things\\Resources\\ColossalDTex.wad";
+				location = "D:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\RES-ColossalDTex\\ColossalDTex.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -184,9 +184,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -1655.071f;
-		viewpositiony = -712.0216f;
-		viewscale = 1.040413f;
+		viewpositionx = 90.02505f;
+		viewpositiony = -324.7639f;
+		viewscale = 8.486939f;
 		
 		grid
 		{
@@ -196,7 +196,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 32;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
